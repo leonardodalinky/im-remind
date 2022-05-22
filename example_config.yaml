@@ -1,0 +1,10 @@
+qq:
+  token: <qq-token>
+  api-path: <qq-api-path>
+  # session is used for simplify the command-line
+  session:
+    qq: <your-qq>
+    group: <your-qq-group>
+tg:
+  token: <tg-token>
+  api-path: <tg-api-path>

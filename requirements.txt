@@ -1,0 +1,6 @@
+PyYAML
+requests>=2
+twine
+black
+build
+isort
